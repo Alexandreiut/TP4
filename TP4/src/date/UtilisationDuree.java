@@ -16,6 +16,9 @@ public class UtilisationDuree {
      */
     public static void main(String[] args) {
          testChaine();
+         testDifferente();
+         testOrdre();
+         
     }
     /** TODO test de la methode entre différente heure
      * 
